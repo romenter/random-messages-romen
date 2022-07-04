@@ -1,0 +1,20 @@
+{
+  "name": "random-messages-romen",
+  "version": "1.0.0",
+  "description": "random one shot crazyest name's you can see",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Romen, Ter Gazarian <romen.tergazarian@gmail.com>",
+  "license": "ISC",
+  "bin": {
+    "random-msg":"./bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/romenter/random-messages-romen.git"
+  }
+}
